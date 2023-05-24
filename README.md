@@ -8,18 +8,18 @@ Welcome to my Projects! Here is quick guide of my projects.
 
 # SQL
 
-|Project|Area of Analysis|Description
+|Project|Area|Description
 |---|---|---|
 |Maven Fuzzy Factory|Traffic & Trend Analysis | Analyse marketing channels and its trends drilling down to find out the ways to optimize Ads Cost allocations|
 |Parch & Posey|data cleaning, transforming and analysis|helping business to solve listed questions by using SQL|
 
 
 # Power BI
-|Project|Area of Analysis|Description
+|Project|Area|Description
 |---|---|---|
 
 # DBT
-|Project|Area of Analysis|Description
+|Project|Area|Description
 |---|---|---|
 
 # Tableau
