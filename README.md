@@ -16,11 +16,12 @@ Welcome to my Projects! Here is quick guide of summary of my projects.
 
 # Power BI
 |Project|Area of Analysis|Description
-
+|---|---|---|
 
 # DBT
 |Project|Area of Analysis|Description
-
+|---|---|---|
 
 # Tableau
 |Project|Description|Link|
+|---|---|---|
