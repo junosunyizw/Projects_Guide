@@ -22,6 +22,7 @@ Welcome to my Projects! Here is quick guide of my projects.
 # DBT
 |Project|Area|Description
 |---|---|---|
+|dbt_BigQuery|data pipelining,warehousing,tranforming.documenting,testing and automating project|Setup and connect google bigquery, dbt cloud and github repos. 
 
 # Tableau
 |Project|Description|Link|
