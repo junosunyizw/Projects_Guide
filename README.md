@@ -26,6 +26,7 @@ Welcome to my Projects! Here is quick guide of my projects.
 |dbt_snowflake|data pipelining,warehousing,tranforming.documenting,testing and automating project|Setup and connect snowflake, dbt cloud and github repos. 
 
 # Tableau
-|Project|Description|Link|
-|---|---|---|
-|Airbnb housing analysis|data cleaning,modeling and visualiztion|Simplely dashboarding the relevant airbnb housing data by segments of count and average price for bedrooms and ZIP Code(areas)
+|Project|Description
+|---|---|
+|Airbnb housing analysis|Simplely dashboarding the relevant airbnb housing data by segments of count and average price for bedrooms and ZIP Code(areas)
+|Covid-19 impact analysis|SQL project for data analysis. generating required views with relevant data. creating models and then visualising models in tableau. dashboard demestrated the impacts of Covid-19 for number of infected people and deaths across different countries.
