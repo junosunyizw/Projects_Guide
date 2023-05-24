@@ -1,5 +1,5 @@
 # Billy`s Projects
-Welcome to my Projects! Here is quick guide of summary of my projects.
+Welcome to my Projects! Here is quick guide of my projects.
 
 ## Quick Guide
 
