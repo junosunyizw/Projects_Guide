@@ -23,7 +23,9 @@ Welcome to my Projects! Here is quick guide of my projects.
 |Project|Area|Description
 |---|---|---|
 |dbt_BigQuery|data pipelining,warehousing,tranforming.documenting,testing and automating project|Setup and connect google bigquery, dbt cloud and github repos. 
+|dbt_snowflake|data pipelining,warehousing,tranforming.documenting,testing and automating project|Setup and connect snowflake, dbt cloud and github repos. 
 
 # Tableau
 |Project|Description|Link|
 |---|---|---|
+|Airbnb housing analysis|data cleaning,modeling and visualiztion|Simplely dashboarding the relevant airbnb housing data by segments of count and average price for bedrooms and ZIP Code(areas)
