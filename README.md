@@ -17,7 +17,7 @@ Welcome to my Projects! Here is quick guide of my projects.
 # Power BI
 |Project|Area|Description
 |---|---|---|
-|Financial Reports|Data Wraggling, Modelling, Analysis and Visualization|Combine knowledge of accounting, data analysis and business intellgent. Identifying the weaknesses of current business in accounting and reporting parts, providing improvements and solutions to these weak parts and redesigning dynamic financial reporting dashboard in order to meet the requirements for reports users and improve my working efficiency.
+|Financial Reports|Data Wraggling, Modelling, Analysis and Visualization|Combine knowledge of accounting, data analysis and business intellgent. Identifying the weaknesses of current business in accounting and reporting parts, providing improvements and solutions to these weak parts and redesigning and rebuilding dynamic financial reporting dashboard in order to meet the requirements for reports users and improve my working efficiency.
 
 # DBT
 |Project|Area|Description
