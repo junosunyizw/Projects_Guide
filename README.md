@@ -14,12 +14,13 @@ Welcome to my Projects! Here is quick guide of summary of my projects.
 |Parch & Posey|data cleaning, transforming and analysis|helping business to solve listed questions by using SQL|
 
 
-# POWER BI
-
+# Power BI
+|Project|Area of Analysis|Description
 
 
 # DBT
-
+|Project|Area of Analysis|Description
 
 
 # Tableau
+|Project|Description|Link|
