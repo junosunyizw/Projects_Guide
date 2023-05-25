@@ -10,7 +10,7 @@ Welcome to my Projects! Here is quick guide of my projects.
 
 |Project|Area|Description
 |---|---|---|
-|[Maven Fuzzy Factory](https://github.com/junosunyizw/MavenFuzzyFactory-Advanced-MySQL)|Traffic & Trend Analysis | Analyse marketing channels and its trends drilling down to find out the ways to optimize Ads Cost allocations|
+|[Maven Fuzzy Factory-Ongoing](https://github.com/junosunyizw/MavenFuzzyFactory-Advanced-MySQL)|Traffic & Trend Analysis | Analyse marketing channels and its trends drilling down to find out the ways to optimize Ads Cost allocations|
 |[Parch & Posey](https://github.com/junosunyizw/SQL-Learning/tree/main/Udacity-Sql%20for%20data%20analysis-PostgresSQL)|data cleaning, transforming and analysis|Helping business to solve listed questions by using SQL|
 
 
